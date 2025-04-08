@@ -191,15 +191,3 @@ module "security_monitoring" {
 4. Optimize log retention policies
 5. Validate service integrations
 
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on:
-- Code style and standards
-- Testing requirements
-- Documentation requirements
-- Pull request process
-- Security vulnerability reporting
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
