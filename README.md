@@ -1,3 +1,6 @@
+
+![Preview](https://github.com/user-attachments/assets/51c45544-37b1-4d25-b045-5b2a5f829e2c)
+
 # AWS Admin Dashboard - Advanced Infrastructure Monitoring
 
 A comprehensive AWS infrastructure monitoring solution using Terraform, featuring advanced CloudWatch dashboards, intelligent alerting, and multi-environment support.
